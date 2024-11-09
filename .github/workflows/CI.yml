@@ -1,4 +1,4 @@
-name: myth
+name: CI
 
 on: [push, workflow_dispatch]
 
